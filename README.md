@@ -1,0 +1,2 @@
+# Customer_Segmentation_and_Recommendation_for_Online_store
+Customer segmentation and recommendation for online store
